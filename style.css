@@ -792,9 +792,20 @@ h4 {
     box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.3);
 }
 
+.col-sm-12.black-background {
+   width: 60%;
+   padding-top: 20px;
+   margin-left: 200px;
+   
+}
+
 .black-background {
     background-color: rgba(56, 56, 56, 0.7);
     padding: 40px 40px 40px 40px;
+}
+
+#size {
+    font-size: 30px;
 }
 
 .bold-link {
